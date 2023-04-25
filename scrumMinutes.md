@@ -122,8 +122,11 @@ m. Setup Git Lucifer Branch
 
 #### WIP
 ```
+Michael:
 a. HTML development
 b. CSS development
+
+Lucifer:
 c. Challenge06 - Weather API development
 ```
 
@@ -144,22 +147,45 @@ e. Update 230425 Daily Scrum Minutes
 ```
 
 ## 230426 END OF WEEK Meeting
-
+```
 <!-- TODO 230427 STANDUP -->
+```
+```
 <!-- TODO 230428 STANDUP -->
+```
+```
 <!-- TODO 230429 STANDUP -->
+```
+```
 <!-- TODO 230430 STANDUP -->
+```
+```
 <!-- TODO 230501 STANDUP -->
+```
+```
 <!-- TODO 230502 STANDUP -->
+```
+```
 <!-- TODO 230503 STANDUP -->
+```
+
 
 ## 230503 END OF WEEK Meeting
-
+```
 <!-- TODO 230504 STANDUP -->
+```
+```
 <!-- TODO 230505 STANDUP -->
+```
+```
 <!-- TODO 230506 STANDUP -->
+```
+```
 <!-- TODO 230507 STANDUP -->
+```
+```
 <!-- TODO 230508 STANDUP -->
+```
 
 ## 230508 END OF SPRINT Meeting
 

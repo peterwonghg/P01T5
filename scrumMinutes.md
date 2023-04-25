@@ -15,7 +15,7 @@ The main feature of the Scrum methodologies as outlined in Sam Ngu's 230424 Serv
 7. END OF SPRINT
 ```
 
-The Srum minutes will be journalled in a chronological order to demonstrate the development process of the Project01
+The Scrum minutes will be journalled in a chronological order to demonstrate the development process of the Project01 for tracking purposes
 
 # 230424
 ## 230424 BRAINSTORM Session
@@ -47,14 +47,14 @@ WHEN I open the Home Page
 THEN I enter my name and work site location through the submit button
 WHEN I entered my site information
 THEN I will be presented with the site temperature, humidity, wind and weather condition (https://openweathermap.org/) and continue button
-WHEN I clicked the continue button
-THEN I am presented an Inspirational quote (https://type.fit/api/) with a Take5 button
 WHEN I clicked the Take5 button
 THEN I am presented with a series of Take5 questions with a Yes/No answer
 WHEN I answered YES to everything
-THEN I am presented a message to continue my task
+THEN I can click the Submit button
 WHEN I answer NO to anything
 THEN I am presented with a message NOT to proceed with my task and contact my supervisor
+WHEN I clicked the Submit button
+THEN I am presented with an Inspirational quote (https://type.fit/api/) with a message Stay Safe
 ```
 
 
@@ -108,6 +108,7 @@ n.
 ## 230425 DAILY STANDUP
 ### 230425 KANBAN Board
 #### TODO 
+```
 Michael:
 g. Create Wireframe
 h. Insert Wireframe screenshot in Readme
@@ -116,20 +117,20 @@ z. Commit to Main/Master
 l. Setup Git Michael Branch
 
 Lucifer:
-e. Update 230425 Scrum Minutes
 m. Setup Git Lucifer Branch
-
+```
 #### WIP
 a. HTML development
 b. CSS development
 c. Challenge06 - Weather API development
 
 #### BLOCKERS
-None
+None Reported
 
 #### COMPLETED
 k. Create Scrum Minutes Readme template
 e. Update 230424 Daily Scrum Minutes
+e. Update 230425 Daily Scrum Minutes
 
 
 <!-- TODO 230426 STANDUP -->

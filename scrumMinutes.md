@@ -119,22 +119,29 @@ l. Setup Git Michael Branch
 Lucifer:
 m. Setup Git Lucifer Branch
 ```
+
 #### WIP
+```
 a. HTML development
 b. CSS development
 c. Challenge06 - Weather API development
+```
 
 #### BLOCKERS
+```
 None Reported
+```
 
 #### COMPLETED
+```
 k. Create Scrum Minutes Readme template
 e. Update 230424 Daily Scrum Minutes
 e. Update 230425 Daily Scrum Minutes
+```
 
-
+```
 <!-- TODO 230426 STANDUP -->
-
+```
 
 ## 230426 END OF WEEK Meeting
 
